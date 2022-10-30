@@ -79,6 +79,10 @@ https://www.ogis-ri.co.jp/otc/hiroba/technical/similar-document-search/part7.htm
 
 https://qiita.com/masaki_kitayama/items/01a214c07b2efa8aed1b
 
+- 日本語T5事前学習済みモデルのgithub
+
+https://github.com/sonoisa/t5-japanese
+
 ## ファインチューニングでのパラメータ
 
 - 学習データ
